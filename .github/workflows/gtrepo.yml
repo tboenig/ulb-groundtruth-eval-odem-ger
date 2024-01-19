@@ -254,26 +254,26 @@ jobs:
             shell: bash    
               
 
-          - name: install ocrd, make validMets and bagit
-            run: |
-              sudo apt-get install -y python3 imagemagick libgeos-dev
-              python3 -m venv venv         
-              source venv/bin/activate     
-              pip install -U pip 'setuptools>=61'
-              pip install ocrd
-              ocrd --version
+          #- name: install ocrd, make validMets and bagit
+          #  run: |
+          #    sudo apt-get install -y python3 imagemagick libgeos-dev
+          #    python3 -m venv venv         
+          #    source venv/bin/activate     
+          #    pip install -U pip 'setuptools>=61'
+          #    pip install ocrd
+          #    ocrd --version
               
 
-          - name: make validMets  
-            run: |
-              source venv/bin/activate
-              sh -ex scripts/mets.sh
+          #- name: make validMets  
+          #  run: |
+          #    source venv/bin/activate
+          #    sh -ex scripts/mets.sh
                   
 
-          - name: make bagit
-            run: |
-              source venv/bin/activate
-              sh scripts/data_structure.sh
+          #- name: make bagit
+          #  run: |
+          #    source venv/bin/activate
+          #    sh scripts/data_structure.sh
       
       
           - name: copy css styles, js javascript and yml files to ghout
@@ -284,15 +284,15 @@ jobs:
               cp scripts/_config.yml ghout/ 
       
       
-          - name: archive the metadata files from metadata_out folder
-            uses: thedoctor0/zip-release@master
-            with:
-                filename: metadata-v${{ github.run_number }}.zip
-                path: 'metadata_out'
+          #- name: archive the metadata files from metadata_out folder
+          #  uses: thedoctor0/zip-release@master
+          #  with:
+          #      filename: metadata-v${{ github.run_number }}.zip
+          #      path: 'metadata_out'
       
-          - name: copy metadata.zip to ocrdzip_out
-            run: | 
-              cp metadata-v${{ github.run_number }}.zip ocrdzip_out/
+          #- name: copy metadata.zip to ocrdzip_out
+          #  run: | 
+          #    cp metadata-v${{ github.run_number }}.zip ocrdzip_out/
               
               
           - name: Upload Release
