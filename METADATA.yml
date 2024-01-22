@@ -15,7 +15,7 @@ authors:
 description: Groundtruth ULB VD18 ODEM
 language:
   - deu
-production-software: Aletheia
+production-software: Transkribus
 script:
   - Latn
   - Goth
