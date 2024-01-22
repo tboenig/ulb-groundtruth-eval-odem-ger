@@ -21,12 +21,30 @@
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>ImgRegion</th>
+            <th>LineDrawRegion</th>
+            <th>GraphRegion</th>
+            <th>TabRegion</th>
+            <th>SepRegion</th>
+            <th>MathRegion</th>
+            <th>MusicRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>39825</td>
+            <td>1026</td>
+            <td>6298</td>
+            <td>12</td>
+            <td>2</td>
+            <td>262</td>
+            <td>8</td>
+            <td>51</td>
+            <td>20</td>
+            <td>6</td>
+            <td>41</td>
          </tr>
       </tbody>
    </table>
@@ -55,7 +73,27 @@
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>ulb-groundtruth-eval-odem-ger</td>
+                  <td>6298</td>
+                  <td>12</td>
+                  <td>2</td>
+                  <td>262</td>
+                  <td>8</td>
+                  <td/>
+                  <td>51</td>
+                  <td>20</td>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td>39825</td>
+                  <td>1026</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
