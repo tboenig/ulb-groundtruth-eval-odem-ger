@@ -8,7 +8,7 @@
       <dt id="Format">Format:</dt>
       <dd>Page-XML</dd>
       <dt id="Time">Time:</dt>
-      <dd>1800-1899</dd>
+      <dd>1700-1799</dd>
       <dt id="GTT">GT Type:</dt>
       <dd>data_structure_and_text</dd>
       <dt id="License">License:</dt>
