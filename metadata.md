@@ -11,7 +11,7 @@
       <dt>Format:</dt>
       <dd>Page-XML</dd>
       <dt>Production software:</dt>
-      <dd>Transkribus</dd>
+      <dd>Aletheia</dd>
       <dt>Time:</dt>
       <dd>1800-1899</dd>
       <dt>GT Type:</dt>
@@ -73,7 +73,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/ulb-groundtruth-eval-odem-ger/releases/tag/v1.0.7">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 9_v1.0.7</a>
+         <a href="https://github.com/tboenig/ulb-groundtruth-eval-odem-ger/releases/tag/v1.0.8">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 10_v1.0.8</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/ulb-groundtruth-eval-odem-ger/releases">Version archive</a>
