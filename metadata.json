@@ -21,15 +21,15 @@
   "language": [
     "deu"
   ],
-  "production-software": "Aletheia",
+  "production-software": "Transkribus",
   "script": [
     "Latn",
     "Goth"
   ],
   "script-type": "print",
   "time": {
-    "notBefore": "1800",
-    "notAfter": "1899"
+    "notBefore": "1700",
+    "notAfter": "1799"
   },
   "hands": {
     "count": "3",
