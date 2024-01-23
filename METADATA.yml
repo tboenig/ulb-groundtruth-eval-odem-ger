@@ -31,3 +31,6 @@ license:
     url: https://creativecommons.org/publicdomain/mark/1.0/
 gtType: data_structure_and_text
 format: Page-XML
+volume:
+  - metric: pages
+    count: 1000
