@@ -220,7 +220,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/ulb-groundtruth-eval-odem-ger/releases/tag/v1.0.24">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 26_v1.0.24</a>
+         <a href="https://github.com/tboenig/ulb-groundtruth-eval-odem-ger/releases/tag/v1.0.26">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 28_v1.0.26</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/ulb-groundtruth-eval-odem-ger/releases">Version archive</a>
