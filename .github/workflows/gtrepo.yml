@@ -155,6 +155,8 @@ jobs:
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
               output=METSdefault repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=${{ env.TAG_NAME }} \
               -s:scripts/gt-overview_metadata.xsl
+              pwd
+              ls
 
           - name: generate CITATION.cff
             run: |
