@@ -162,6 +162,7 @@ jobs:
               pwd
               ls
               cd data
+              cd ger
               less mets.xml
           
           - name: generate CITATION.cff
