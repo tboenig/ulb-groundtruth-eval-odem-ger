@@ -1,0 +1,1 @@
+https://github.com/tboenig/ulb-groundtruth-eval-odem-ger/releases/download/v1.0.11/ger.ocrd.zip
