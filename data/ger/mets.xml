@@ -37602,7 +37602,6 @@
             <mets:div ID="log1290285" TYPE="section" ORDER="3" DMDID="md1177954"/>
             <mets:div ID="log1298072" TYPE="section" ORDER="4" DMDID="md1178274"/>
             <mets:div ID="log1307261" TYPE="section" ORDER="5" DMDID="md1178147"/>
-            <mets:div ID="log1307261" TYPE="section" ORDER="6" DMDID="md1178147"/>
             <mets:div ID="log1314635" TYPE="section" ORDER="7" DMDID="md1178148"/>
             <mets:div ID="log1315225" TYPE="section" ORDER="8" DMDID="md1178148"/>
             <mets:div ID="log1326884" TYPE="section" ORDER="9" DMDID="md1176980"/>
@@ -37621,7 +37620,7 @@
             <mets:div ID="log1428741" TYPE="section" ORDER="22" DMDID="md1178478"/>
             <mets:div ID="log1428760" TYPE="section" ORDER="23" DMDID="md1178478"/>
             <mets:div ID="log1423486" TYPE="section" ORDER="24" DMDID="md1180788"/>
-            <mets:div ID="log1423486" TYPE="section" ORDER="25" DMDID="md1180788"/>
+            
             <mets:div ID="log1424543" TYPE="section" ORDER="26" DMDID="md1177994"/>
             <mets:div ID="log1460058" TYPE="section" ORDER="27" DMDID="md1178210"/>
             <mets:div ID="log1439483" TYPE="section" ORDER="28" DMDID="md1178151"/>
@@ -37654,7 +37653,7 @@
             <mets:div ID="log1553876" TYPE="section" ORDER="55" DMDID="md1178288"/>
             <mets:div ID="log1573355" TYPE="section" ORDER="56" DMDID="md1178918"/>
             <mets:div ID="log1578566" TYPE="section" ORDER="57" DMDID="md1177360"/>
-            <mets:div ID="log1578566" TYPE="section" ORDER="58" DMDID="md1177360"/>
+            
             <mets:div ID="log1591826" TYPE="section" ORDER="59" DMDID="md1178219"/>
             <mets:div ID="log1591842" TYPE="section" ORDER="60" DMDID="md1178219"/>
             <mets:div ID="log1603487" TYPE="section" ORDER="61" DMDID="md1178586"/>
@@ -37722,7 +37721,7 @@
             <mets:div ID="log2091400" TYPE="section" ORDER="123" DMDID="md1657881"/>
             <mets:div ID="log2111699" TYPE="section" ORDER="124" DMDID="md1654682"/>
             <mets:div ID="log2118957" TYPE="section" ORDER="125" DMDID="md1654755"/>
-            <mets:div ID="log2118957" TYPE="section" ORDER="126" DMDID="md1654755"/>
+            
             <mets:div ID="log2125555" TYPE="section" ORDER="127" DMDID="md1659094"/>
             <mets:div ID="log2130538" TYPE="section" ORDER="128" DMDID="md1657975"/>
             <mets:div ID="log2198965" TYPE="section" ORDER="129" DMDID="md1655620"/>
@@ -37794,7 +37793,7 @@
             <mets:div ID="log3139771" TYPE="section" ORDER="195" DMDID="md3057000"/>
             <mets:div ID="log3080320" TYPE="section" ORDER="196" DMDID="md2921451"/>
             <mets:div ID="log3197340" TYPE="section" ORDER="197" DMDID="md3091682"/>
-            <mets:div ID="log3197340" TYPE="section" ORDER="198" DMDID="md3091682"/>
+            
             <mets:div ID="log3185218" TYPE="section" ORDER="199" DMDID="md3100690"/>
             <mets:div ID="log3160178" TYPE="section" ORDER="200" DMDID="md3107121"/>
             <mets:div ID="log3130809" TYPE="chapter" ORDER="201" DMDID="md3118505"/>
@@ -37815,7 +37814,7 @@
             <mets:div ID="log3312517" TYPE="section" ORDER="216" DMDID="md3254237"/>
             <mets:div ID="log3259785" TYPE="section" ORDER="217" DMDID="md2921909"/>
             <mets:div ID="log3303447" TYPE="section" ORDER="218" DMDID="md2921063"/>
-            <mets:div ID="log3303447" TYPE="section" ORDER="219" DMDID="md2921063"/>
+            
             <mets:div ID="log3377485" TYPE="section" ORDER="220" DMDID="md2921008"/>
             <mets:div ID="log3360525" TYPE="section" ORDER="221" DMDID="md2921020"/>
             <mets:div ID="log3381947" TYPE="section" ORDER="222" DMDID="md2921026"/>
@@ -37926,7 +37925,7 @@
             <mets:div ID="log5039046" TYPE="section" ORDER="327" DMDID="md5024443"/>
             <mets:div ID="log5047028" TYPE="section" ORDER="328" DMDID="md5024717"/>
             <mets:div ID="log5040278" TYPE="section" ORDER="329" DMDID="md5025156"/>
-            <mets:div ID="log5040278" TYPE="section" ORDER="330" DMDID="md5025156"/>
+            
             <mets:div ID="log5061249" TYPE="section" ORDER="331" DMDID="md5032376"/>
             <mets:div ID="log5326744" TYPE="section" ORDER="332" DMDID="md2921498"/>
             <mets:div ID="log5090347" TYPE="section" ORDER="333" DMDID="md5067280"/>
@@ -37982,7 +37981,7 @@
             <mets:div ID="log5845013" TYPE="section" ORDER="383" DMDID="md5637787"/>
             <mets:div ID="log5691697" TYPE="section" ORDER="384" DMDID="md5679315"/>
             <mets:div ID="log5832566" TYPE="section" ORDER="385" DMDID="md5679444"/>
-            <mets:div ID="log5832566" TYPE="section" ORDER="386" DMDID="md5679444"/>
+            
             <mets:div ID="log5868056" TYPE="section" ORDER="387" DMDID="md5688306"/>
             <mets:div ID="log5887304" TYPE="section" ORDER="388" DMDID="md5722853"/>
             <mets:div ID="log5823839" TYPE="section" ORDER="389" DMDID="md5763760"/>
@@ -37995,12 +37994,12 @@
             <mets:div ID="log6174306" TYPE="section" ORDER="396" DMDID="md5889018"/>
             <mets:div ID="log6174589" TYPE="section" ORDER="397" DMDID="md5889018"/>
             <mets:div ID="log6172105" TYPE="section" ORDER="398" DMDID="md5889442"/>
-            <mets:div ID="log6172105" TYPE="section" ORDER="399" DMDID="md5889442"/>
+            
             <mets:div ID="log5907940" TYPE="section" ORDER="400" DMDID="md5889925"/>
             <mets:div ID="log5939642" TYPE="section" ORDER="401" DMDID="md5900140"/>
             <mets:div ID="log6188000" TYPE="section" ORDER="402" DMDID="md5910524"/>
             <mets:div ID="log7402595" TYPE="section" ORDER="403" DMDID="md5910590"/>
-            <mets:div ID="log7402595" TYPE="section" ORDER="404" DMDID="md5910590"/>
+            
             <mets:div ID="log6338189" TYPE="section" ORDER="405" DMDID="md5911605"/>
             <mets:div ID="log6108598" TYPE="section" ORDER="406" DMDID="md5940713"/>
             <mets:div ID="log6120577" TYPE="section" ORDER="407" DMDID="md5940732"/>
@@ -38062,7 +38061,7 @@
             <mets:div ID="log7784473" TYPE="section" ORDER="463" DMDID="md7672027"/>
             <mets:div ID="log7729811" TYPE="section" ORDER="464" DMDID="md7691703"/>
             <mets:div ID="log7987589" TYPE="section" ORDER="465" DMDID="md7734233"/>
-            <mets:div ID="log7987589" TYPE="section" ORDER="466" DMDID="md7734233"/>
+            
             <mets:div ID="log8025059" TYPE="section" ORDER="467" DMDID="md7742770"/>
             <mets:div ID="log7880412" TYPE="section" ORDER="468" DMDID="md7852914"/>
             <mets:div ID="log8144016" TYPE="section" ORDER="469" DMDID="md7887139"/>
@@ -38083,7 +38082,7 @@
             <mets:div ID="log9043535" TYPE="section" ORDER="484" DMDID="md8407589"/>
             <mets:div ID="log8449088" TYPE="section" ORDER="485" DMDID="md8426059"/>
             <mets:div ID="log8458078" TYPE="section" ORDER="486" DMDID="md8426072"/>
-            <mets:div ID="log8458078" TYPE="section" ORDER="487" DMDID="md8426072"/>
+            
             <mets:div ID="log8504873" TYPE="section" ORDER="488" DMDID="md8426217"/>
             <mets:div ID="log9058081" TYPE="section" ORDER="489" DMDID="md8426741"/>
             <mets:div ID="log9058341" TYPE="section" ORDER="490" DMDID="md8426768"/>
@@ -38097,7 +38096,7 @@
             <mets:div ID="log8875551" TYPE="section" ORDER="498" DMDID="md8767568"/>
             <mets:div ID="log9021723" TYPE="section" ORDER="499" DMDID="md8958872"/>
             <mets:div ID="log9063605" TYPE="section" ORDER="500" DMDID="md8966331"/>
-            <mets:div ID="log9063605" TYPE="section" ORDER="501" DMDID="md8966331"/>
+            
             <mets:div ID="log9080695" TYPE="section" ORDER="502" DMDID="md8966336"/>
             <mets:div ID="log9137220" TYPE="section" ORDER="503" DMDID="md8974150"/>
             <mets:div ID="log9982655" TYPE="section" ORDER="504" DMDID="md8984697"/>
@@ -38108,10 +38107,10 @@
             <mets:div ID="log9261565" TYPE="section" ORDER="509" DMDID="md9153617"/>
             <mets:div ID="log9263699" TYPE="section" ORDER="510" DMDID="md9153627"/>
             <mets:div ID="log9264308" TYPE="section" ORDER="511" DMDID="md9153643"/>
-            <mets:div ID="log9264308" TYPE="section" ORDER="512" DMDID="md9153643"/>
+            
             <mets:div ID="log9349705" TYPE="section" ORDER="513" DMDID="md9170782"/>
             <mets:div ID="log9356069" TYPE="section" ORDER="514" DMDID="md9175097"/>
-            <mets:div ID="log9356069" TYPE="section" ORDER="515" DMDID="md9175097"/>
+            
             <mets:div ID="log9343294" TYPE="section" ORDER="516" DMDID="md9187132"/>
             <mets:div ID="log9402407" TYPE="section" ORDER="517" DMDID="md9187161"/>
             <mets:div ID="log9376859" TYPE="section" ORDER="518" DMDID="md9194599"/>
@@ -38142,7 +38141,7 @@
             <mets:div ID="log10037008" TYPE="section" ORDER="543" DMDID="md9633572"/>
             <mets:div ID="log10088031" TYPE="section" ORDER="544" DMDID="md9643957"/>
             <mets:div ID="log10080931" TYPE="section" ORDER="545" DMDID="md9646363"/>
-            <mets:div ID="log10080931" TYPE="section" ORDER="546" DMDID="md9646363"/>
+            
             <mets:div ID="log9944646" TYPE="section" ORDER="547" DMDID="md9650559"/>
             <mets:div ID="log10108934" TYPE="section" ORDER="548" DMDID="md9650580"/>
             <mets:div ID="log10058080" TYPE="section" ORDER="549" DMDID="md9656645"/>
@@ -38219,7 +38218,7 @@
             <mets:div ID="log10431520" TYPE="section" ORDER="620" DMDID="md10363964"/>
             <mets:div ID="log10441886" TYPE="section" ORDER="621" DMDID="md10393430"/>
             <mets:div ID="log11243963" TYPE="section" ORDER="622" DMDID="md10423094"/>
-            <mets:div ID="log11243963" TYPE="section" ORDER="623" DMDID="md10423094"/>
+            
             <mets:div ID="log10483083" TYPE="section" ORDER="624" DMDID="md10438330"/>
             <mets:div ID="log10452950" TYPE="section" ORDER="625" DMDID="md10438978"/>
             <mets:div ID="log11137998" TYPE="section" ORDER="626" DMDID="md10514196"/>
@@ -38242,8 +38241,8 @@
             <mets:div ID="log11272750" TYPE="section" ORDER="643" DMDID="md10862031"/>
             <mets:div ID="log11256456" TYPE="section" ORDER="644" DMDID="md10888066"/>
             <mets:div ID="log11275948" TYPE="section" ORDER="645" DMDID="md10901724"/>
-            <mets:div ID="log11275948" TYPE="section" ORDER="646" DMDID="md10901724"/>
-            <mets:div ID="log11275948" TYPE="section" ORDER="647" DMDID="md10901724"/>
+            
+            
             <mets:div ID="log11313996" TYPE="section" ORDER="648" DMDID="md10989404"/>
             <mets:div ID="log11353763" TYPE="section" ORDER="649" DMDID="md10998153"/>
             <mets:div ID="log11377451" TYPE="section" ORDER="650" DMDID="md11034123"/>
@@ -38279,11 +38278,11 @@
             <mets:div ID="log11643749" TYPE="section" ORDER="680" DMDID="md11442901"/>
             <mets:div ID="log11640519" TYPE="section" ORDER="681" DMDID="md11453793"/>
             <mets:div ID="log11477246" TYPE="section" ORDER="682" DMDID="md11460716"/>
-            <mets:div ID="log11477246" TYPE="section" ORDER="683" DMDID="md11460716"/>
+            
             <mets:div ID="log11714662" TYPE="section" ORDER="684" DMDID="md11460854"/>
             <mets:div ID="log11654613" TYPE="section" ORDER="685" DMDID="md11460880"/>
             <mets:div ID="log11498891" TYPE="section" ORDER="686" DMDID="md11460888"/>
-            <mets:div ID="log11498891" TYPE="section" ORDER="687" DMDID="md11460888"/>
+            
             <mets:div ID="log11712236" TYPE="section" ORDER="688" DMDID="md11465824"/>
             <mets:div ID="log11838686" TYPE="section" ORDER="689" DMDID="md11465935"/>
             <mets:div ID="log11564012" TYPE="section" ORDER="690" DMDID="md11481526"/>
@@ -38326,7 +38325,7 @@
             <mets:div ID="log12275756" TYPE="section" ORDER="727" DMDID="md11807824"/>
             <mets:div ID="log12209204" TYPE="section" ORDER="728" DMDID="md11814141"/>
             <mets:div ID="log12255976" TYPE="section" ORDER="729" DMDID="md11841680"/>
-            <mets:div ID="log12255976" TYPE="section" ORDER="730" DMDID="md11841680"/>
+            
             <mets:div ID="log11980738" TYPE="section" ORDER="731" DMDID="md11896082"/>
             <mets:div ID="log11948024" TYPE="section" ORDER="732" DMDID="md11911347"/>
             <mets:div ID="log12380609" TYPE="section" ORDER="733" DMDID="md11951798"/>
@@ -38341,7 +38340,7 @@
             <mets:div ID="log12599814" TYPE="section" ORDER="742" DMDID="md12022573"/>
             <mets:div ID="log12029686" TYPE="section" ORDER="743" DMDID="md12022702"/>
             <mets:div ID="log12587343" TYPE="section" ORDER="744" DMDID="md12035805"/>
-            <mets:div ID="log12587343" TYPE="section" ORDER="745" DMDID="md12035805"/>
+            
             <mets:div ID="log12052333" TYPE="section" ORDER="746" DMDID="md12036274"/>
             <mets:div ID="log12662381" TYPE="section" ORDER="747" DMDID="md12041328"/>
             <mets:div ID="log12065477" TYPE="section" ORDER="748" DMDID="md12057584"/>
@@ -38375,7 +38374,7 @@
             <mets:div ID="log12389262" TYPE="section" ORDER="776" DMDID="md12368892"/>
             <mets:div ID="log12388834" TYPE="section" ORDER="777" DMDID="md12379234"/>
             <mets:div ID="log12394705" TYPE="section" ORDER="778" DMDID="md12386925"/>
-            <mets:div ID="log12394705" TYPE="section" ORDER="779" DMDID="md12386925"/>
+            
             <mets:div ID="log12413794" TYPE="section" ORDER="780" DMDID="md12397881"/>
             <mets:div ID="log12441076" TYPE="section" ORDER="781" DMDID="md12426990"/>
             <mets:div ID="log12439213" TYPE="section" ORDER="782" DMDID="md12432814"/>
@@ -38396,15 +38395,15 @@
             <mets:div ID="log13186633" TYPE="section" ORDER="797" DMDID="md12788559"/>
             <mets:div ID="log13256652" TYPE="section" ORDER="798" DMDID="md12822912"/>
             <mets:div ID="log13816131" TYPE="section" ORDER="799" DMDID="md12822934"/>
-            <mets:div ID="log13816131" TYPE="section" ORDER="800" DMDID="md12822934"/>
+            
             <mets:div ID="log13333040" TYPE="section" ORDER="801" DMDID="md12838569"/>
             <mets:div ID="log13467260" TYPE="section" ORDER="802" DMDID="md12838956"/>
             <mets:div ID="log13413833" TYPE="section" ORDER="803" DMDID="md12844490"/>
             <mets:div ID="log13393909" TYPE="section" ORDER="804" DMDID="md12844714"/>
             <mets:div ID="log12868572" TYPE="section" ORDER="805" DMDID="md12854349"/>
-            <mets:div ID="log12868572" TYPE="section" ORDER="806" DMDID="md12854349"/>
+            
             <mets:div ID="log12869107" TYPE="section" ORDER="807" DMDID="md12854349"/>
-            <mets:div ID="log12869107" TYPE="section" ORDER="808" DMDID="md12854349"/>
+            
             <mets:div ID="log13394762" TYPE="section" ORDER="809" DMDID="md12874289"/>
             <mets:div ID="log13532131" TYPE="section" ORDER="810" DMDID="md12891279"/>
             <mets:div ID="log13056980" TYPE="section" ORDER="811" DMDID="md12939609"/>
@@ -38430,7 +38429,7 @@
             <mets:div ID="log13412861" TYPE="section" ORDER="831" DMDID="md13240776"/>
             <mets:div ID="log13995381" TYPE="section" ORDER="832" DMDID="md13263913"/>
             <mets:div ID="log13354728" TYPE="section" ORDER="833" DMDID="md13290113"/>
-            <mets:div ID="log13354728" TYPE="section" ORDER="834" DMDID="md13290113"/>
+            
             <mets:div ID="log14118006" TYPE="section" ORDER="835" DMDID="md13307471"/>
             <mets:div ID="log14161670" TYPE="section" ORDER="836" DMDID="md13307758"/>
             <mets:div ID="log14031920" TYPE="section" ORDER="837" DMDID="md13313634"/>
@@ -38442,10 +38441,10 @@
             <mets:div ID="log14236225" TYPE="section" ORDER="843" DMDID="md13444458"/>
             <mets:div ID="log13475816" TYPE="section" ORDER="844" DMDID="md13444469"/>
             <mets:div ID="log13458661" TYPE="section" ORDER="845" DMDID="md13444478"/>
-            <mets:div ID="log13458661" TYPE="section" ORDER="846" DMDID="md13444478"/>
+            
             <mets:div ID="log14228733" TYPE="section" ORDER="847" DMDID="md13444494"/>
             <mets:div ID="log14877217" TYPE="section" ORDER="848" DMDID="md13460273"/>
-            <mets:div ID="log14877217" TYPE="section" ORDER="849" DMDID="md13460273"/>
+            
             <mets:div ID="log14243501" TYPE="section" ORDER="850" DMDID="md13460285"/>
             <mets:div ID="log14248851" TYPE="section" ORDER="851" DMDID="md13466972"/>
             <mets:div ID="log14249336" TYPE="section" ORDER="852" DMDID="md13466972"/>
@@ -38460,26 +38459,25 @@
             <mets:div ID="log15057007" TYPE="section" ORDER="861" DMDID="md13786261"/>
             <mets:div ID="log13828567" TYPE="section" ORDER="862" DMDID="md13810157"/>
             <mets:div ID="log13848764" TYPE="section" ORDER="863" DMDID="md13838133"/>
-            <mets:div ID="log13848764" TYPE="section" ORDER="864" DMDID="md13838133"/>
+            
             <mets:div ID="log13861764" TYPE="section" ORDER="865" DMDID="md13845922"/>
             <mets:div ID="log14565096" TYPE="section" ORDER="866" DMDID="md13914755"/>
             <mets:div ID="log14579546" TYPE="section" ORDER="867" DMDID="md13914758"/>
-            <mets:div ID="log14579546" TYPE="section" ORDER="868" DMDID="md13914758"/>
+            
             <mets:div ID="log14559486" TYPE="section" ORDER="869" DMDID="md13927810"/>
             <mets:div ID="log14584029" TYPE="section" ORDER="870" DMDID="md13932852"/>
             <mets:div ID="log14551938" TYPE="section" ORDER="871" DMDID="md13997654"/>
             <mets:div ID="log14051060" TYPE="section" ORDER="872" DMDID="md14025607"/>
             <mets:div ID="log14153813" TYPE="section" ORDER="873" DMDID="md14054090"/>
             <mets:div ID="log14689210" TYPE="section" ORDER="874" DMDID="md14107082"/>
-            <mets:div ID="log14689210" TYPE="section" ORDER="875" DMDID="md14107082"/>
+            
             <mets:div ID="log14200046" TYPE="section" ORDER="876" DMDID="md14176671"/>
             <mets:div ID="log14202835" TYPE="section" ORDER="877" DMDID="md14186122"/>
             <mets:div ID="log14897391" TYPE="title_page" ORDER="878" DMDID="md14312126"/>
             <mets:div ID="log15097622" TYPE="section" ORDER="879" DMDID="md14321929"/>
             <mets:div ID="log14887007" TYPE="section" ORDER="880" DMDID="md14321951"/>
             <mets:div ID="log15385957" TYPE="section" ORDER="881" DMDID="md14325102"/>
-            <mets:div ID="log15385957" TYPE="section" ORDER="882" DMDID="md14325102"/>
-            <mets:div ID="log15385957" TYPE="section" ORDER="883" DMDID="md14325102"/>
+            
             <mets:div ID="log15284399" TYPE="section" ORDER="884" DMDID="md14325327"/>
             <mets:div ID="log16287702" TYPE="section" ORDER="885" DMDID="md14329086"/>
             <mets:div ID="log16287703" TYPE="section" ORDER="886" DMDID="md14329086"/>
@@ -38494,7 +38492,7 @@
             <mets:div ID="log15353779" TYPE="section" ORDER="895" DMDID="md14343706"/>
             <mets:div ID="log15379283" TYPE="section" ORDER="896" DMDID="md14343710"/>
             <mets:div ID="log15442362" TYPE="section" ORDER="897" DMDID="md14352434"/>
-            <mets:div ID="log15442362" TYPE="section" ORDER="898" DMDID="md14352434"/>
+            
             <mets:div ID="log15160203" TYPE="section" ORDER="899" DMDID="md14352454"/>
             <mets:div ID="log15165209" TYPE="section" ORDER="900" DMDID="md14352456"/>
             <mets:div ID="log14362760" TYPE="section" ORDER="901" DMDID="md14352532"/>
@@ -38554,7 +38552,7 @@
             <mets:div ID="log15928797" TYPE="section" ORDER="955" DMDID="md15116137"/>
             <mets:div ID="log15928385" TYPE="section" ORDER="956" DMDID="md15116138"/>
             <mets:div ID="log15917402" TYPE="section" ORDER="957" DMDID="md15116148"/>
-            <mets:div ID="log15917402" TYPE="section" ORDER="958" DMDID="md15116148"/>
+            
             <mets:div ID="log15966057" TYPE="section" ORDER="959" DMDID="md15129106"/>
             <mets:div ID="log15944751" TYPE="section" ORDER="960" DMDID="md15179196"/>
             <mets:div ID="log15980516" TYPE="section" ORDER="961" DMDID="md15187809"/>
@@ -38597,7 +38595,7 @@
             <mets:div ID="log15704759" TYPE="section" ORDER="998" DMDID="md15684437"/>
             <mets:div ID="log15710778" TYPE="section" ORDER="999" DMDID="md15684647"/>
             <mets:div ID="log15700897" TYPE="section" ORDER="1000" DMDID="md15684700"/>
-            <mets:div ID="log15700897" TYPE="section" ORDER="1001" DMDID="md15684700"/>
+            
             <mets:div ID="log16201490" TYPE="section" ORDER="1002" DMDID="md15732569"/>
             <mets:div ID="log16202337" TYPE="section" ORDER="1003" DMDID="md15732569"/>
             <mets:div ID="log16202762" TYPE="section" ORDER="1004" DMDID="md15732569"/>
