@@ -161,6 +161,8 @@ jobs:
             run: |
               pwd
               ls
+              cd data
+              less mets.xml
           
           - name: generate CITATION.cff
             run: |
