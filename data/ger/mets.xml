@@ -37,7 +37,7 @@
         </mets:fileGrp>
         <mets:fileGrp USE="OCR-D-GT-FULLTEXT">
             <mets:file ID="OCR-D-GT-FULLTEXT-1" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-112032-p0026-5_ger.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+                <mets:FLocat xlink:href="GT-PAGE/urnnbndegbv31112032p00265_ger.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
             
         </mets:fileGrp>
